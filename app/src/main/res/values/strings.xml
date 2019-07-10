@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginSharedPreferences</string>
+    <string name="link_to_register_Page">Not a Member ?, Create Account</string>
+    <string name="link_to_login_Page">Already registred! Log me in.</string>
+</resources>
